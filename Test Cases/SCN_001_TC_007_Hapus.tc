@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>hapus data</description>
+   <name>SCN_001_TC_007_Hapus</name>
+   <tag>delete</tag>
+   <comment></comment>
+   <testCaseGuid>f8558faa-9323-4ed5-85dd-5a1ca48470e2</testCaseGuid>
+</TestCaseEntity>

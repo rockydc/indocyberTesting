@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add data</description>
+   <name>SCN_001_TC_005_Add Data and Delete Data</name>
+   <tag>add data</tag>
+   <comment></comment>
+   <testCaseGuid>a1779600-23c2-41f2-848a-548420639838</testCaseGuid>
+   <variable>
+      <defaultValue>'nama'</defaultValue>
+      <description></description>
+      <id>291341c5-8690-4eff-adbe-bbd506e790bc</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>dc19ff7b-6e75-4afa-85f3-c4b633b7ee01</id>
+      <masked>false</masked>
+      <name>point</name>
+   </variable>
+</TestCaseEntity>

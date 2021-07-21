@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Scenario</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>399e2826-be1e-4cbb-bdca-63b4f4750dd8</testSuiteGuid>
+   <testCaseLink>
+      <guid>b405541e-ff96-47b2-b657-15a470113433</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_001_Regist</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ff52db15-68ad-4839-b9ef-a573f93c1b99</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9c481791-12a7-46fd-b608-29cba59b805e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>41450a96-66f2-481f-8146-f79dd5276c41</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_003_Login</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>959755dd-2fb4-459b-9d9a-db41ea852667</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_007_Hapus</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d633b7f3-e4fc-42a1-902c-1a671362b116</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_005_Add Data and Delete Data</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>291341c5-8690-4eff-adbe-bbd506e790bc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dc19ff7b-6e75-4afa-85f3-c4b633b7ee01</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3df8c480-18e5-48b1-bde9-1da015aa40ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_006_addData_looping</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f07610f8-dc59-484a-8c92-68de472a9b3a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_008_EXCEL_SUBMIT</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8c1f010a-255b-4f2f-a35a-f6ab452b5965</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_009_GET API and Submit</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7c6a09d7-c3e4-4e44-b870-493e28ef81d1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_010_POST API and submit return</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>939dd23b-c0c7-49db-84f5-3b008bec9df4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SCN_001_TC_004_Logout</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

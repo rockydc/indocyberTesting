@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>submit kembali</description>
+   <name>SCN_001_TC_010_POST API and submit return</name>
+   <tag>API</tag>
+   <comment></comment>
+   <testCaseGuid>26bb898b-4bec-42da-882d-571dc0f219ae</testCaseGuid>
+</TestCaseEntity>

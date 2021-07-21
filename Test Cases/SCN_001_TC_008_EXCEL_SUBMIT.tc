@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Excel &amp; Submit</description>
+   <name>SCN_001_TC_008_EXCEL_SUBMIT</name>
+   <tag>excel</tag>
+   <comment></comment>
+   <testCaseGuid>372bea82-74eb-46ff-b985-4f314ca53be2</testCaseGuid>
+</TestCaseEntity>

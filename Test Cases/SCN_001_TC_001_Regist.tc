@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat melakukan registrasi dengan kondisi:
+1. Tidak ada kolom yang kosong
+2. Password dan confirm password sama
+3. Email sesuai dengan format email
+4. password berupa alpanumeric berisikan 8-32 karakter</description>
+   <name>SCN_001_TC_001_Regist</name>
+   <tag>register</tag>
+   <comment></comment>
+   <testCaseGuid>372ac962-55b9-4fff-8bae-6fbc76cd8061</testCaseGuid>
+   <variable>
+      <defaultValue>'http://116.254.100.222:81/'</defaultValue>
+      <description></description>
+      <id>ff52db15-68ad-4839-b9ef-a573f93c1b99</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://116.254.100.222:81/register'</defaultValue>
+      <description></description>
+      <id>9c481791-12a7-46fd-b608-29cba59b805e</id>
+      <masked>false</masked>
+      <name>registerUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'rocky'</defaultValue>
+      <description></description>
+      <id>3</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'rocky@gmail.com'</defaultValue>
+      <description></description>
+      <id>4</id>
+      <masked>false</masked>
+      <name>correctEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'testing123'</defaultValue>
+      <description></description>
+      <id>5</id>
+      <masked>false</masked>
+      <name>correctPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'testing123'</defaultValue>
+      <description></description>
+      <id>6</id>
+      <masked>false</masked>
+      <name>correctConfirmPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'rocky'</defaultValue>
+      <description></description>
+      <id>7</id>
+      <masked>false</masked>
+      <name>incorrectEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'abcd'</defaultValue>
+      <description></description>
+      <id>8</id>
+      <masked>false</masked>
+      <name>incorrectPassword</name>
+   </variable>
+</TestCaseEntity>

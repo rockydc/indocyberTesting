@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testcase Login</description>
+   <name>SCN_001_TC_004_Logout</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>4fe662f9-b3a0-4d61-8c0a-2f065dde5058</testCaseGuid>
+</TestCaseEntity>
