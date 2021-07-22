@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>update skill</description>
+   <name>new TC Update</name>
+   <tag>update cuy</tag>
+   <comment></comment>
+   <testCaseGuid>b97d38e4-f2b6-46a4-881a-b4d0bcb37355</testCaseGuid>
+</TestCaseEntity>
